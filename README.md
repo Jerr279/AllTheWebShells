@@ -12,10 +12,8 @@ A collection of different types of PHP webShells. EasyShell, HiddenShell, Advanc
 - 
 ## Demo
 
-shell
 ![Shell demo](https://imageupload.io/zLfGnwSpbVHJgUj)
 
-WebPage
 ![WebPage demo](https://imageupload.io/IHGmgPvKxQPkCT2)
 
 

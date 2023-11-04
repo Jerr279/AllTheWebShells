@@ -1,5 +1,5 @@
 #!/bin/bash
-# PHP shell automation easyShell v2
+# PHP shell automation HiddenShell v2
 
 abort() {
     echo -e "$1"

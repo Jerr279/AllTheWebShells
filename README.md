@@ -11,10 +11,6 @@ A collection of different types of PHP webShells. HiddenShell, AdvancedShell and
 
 ## Demo
 
-![Shell demo](https://imageupload.io/ib/SUbDHwGwm0aBPPu_1698927469.png)
-
-![WebPage demo](https://imageupload.io/ib/xjGjfPuhGGfctTo_1698927469.png)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Authors

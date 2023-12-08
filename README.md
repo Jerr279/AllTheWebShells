@@ -16,7 +16,6 @@ A collection of different types of PHP webShells. HiddenShell, AdvancedShell and
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Jerr279&icon=0&color=0)](https://visitcount.itsvg.in)
  <div id="badges">
   <a href="https://www.linkedin.com/in/jerrh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
